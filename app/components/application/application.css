@@ -33,3 +33,6 @@ footer {
 .starrating.glyphicon-star {
     margin-right: 4px;
 }
+img {
+    max-width: 100%;
+}
