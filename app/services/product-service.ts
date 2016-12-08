@@ -61,7 +61,7 @@ var products = [
     "title": "Third Product",
     "price": 74.99,
     "rating": 4.2,
-    "description": "This is a short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "This is a short finde me description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "categories": ["electronics"]
   },
   {
